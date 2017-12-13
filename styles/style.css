@@ -1,0 +1,48 @@
+.navbar{
+  display: inline;
+  text-align: right;
+  margin: 20px;
+}
+
+.navbar img{
+  align-items: center;
+  border-radius: 50%;
+  vertical-align: middle;
+}
+
+.body{
+  text-align: center;
+  margin: 100px 0 0 0;
+}
+
+.logo{
+  padding-bottom: 20px;
+}
+
+.footer{
+  background-color: 8080801f;
+  height: 35px;
+  border: 2px solid gray;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+#searchbox{
+  width: 600px;
+  height: 40px;
+}
+
+#searchbutton, #luckybutton {
+  margin: 20px 0 20px 0;
+  background-color: #80808061;
+  width: 150px;
+  height: 30px;
+  font-weight: bold;
+}
+
+#searchbutton{
+  margin-right: 25px;
+}
